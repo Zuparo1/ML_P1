@@ -1,0 +1,4 @@
+gcc -lm -std=gnu99 -O3 --fast-math  `cat files` -o predict
+
+
+
